@@ -4,6 +4,6 @@ public class ServiceStation {
     }
         public void check(Vehicles vehicles) {
         vehicles.SetModelName("new name");
-        vehicles.doService;
+        vehicles.doService();
     }
 }
